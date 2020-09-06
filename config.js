@@ -11,4 +11,4 @@ const services = ["https://bit.ly/*"];
  *
  * @type {string}
  */
-const resolverUrl = "https://redirect-url-resolver.webcdn.workers.dev/";
+const resolverUrl = ""; // <--- Edit this
