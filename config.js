@@ -3,7 +3,7 @@
  *
  * @type {string[]}
  */
-const services = ["https://bit.ly/*"];
+const services = ["https://bit.ly/*", "http://bit.ly/*"];
 
 /**
  * This API endpoint takes "url" query string
