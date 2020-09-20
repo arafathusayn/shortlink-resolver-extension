@@ -11,4 +11,4 @@ const services = ["https://bit.ly/*", "http://bit.ly/*"];
  *
  * @type {string}
  */
-const resolverUrl = ""; // <--- Edit this
+const resolverUrl = "https://redirected-url-resolver.vercel.app/api/redirect/";
