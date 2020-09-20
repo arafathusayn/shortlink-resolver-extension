@@ -16,7 +16,7 @@ const services = ["https://bit.ly/*"]; // eg. all Bit.ly links
 const resolverUrl = "https://<your own api>.workers.dev/"; // Resolver API Endpoint
 ```
 
-- You can use any API endpoint for the resolver. [This example](https://gist.github.com/arafathusayn/c4bc491319489d734093fab651c69139) shows how to do it with [Cloudflare Workers](https://workers.cloudflare.com/).
+- You can use any API endpoint for the resolver. [This example](https://gist.github.com/arafathusayn/c4bc491319489d734093fab651c69139) shows how to do it with [Cloudflare Workers](https://workers.cloudflare.com/). Alternatively, you may use Vercel serverless functions like [this example](https://gist.github.com/arafathusayn/f4a294a54b2b099ae45576af9161e185).
 
 - Finally, to install the extension in your browser, use Developer Mode ([Guide](https://stackoverflow.com/questions/24577024/install-chrome-extension-form-outside-the-chrome-web-store))
 
